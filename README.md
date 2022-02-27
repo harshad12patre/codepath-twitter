@@ -18,6 +18,12 @@ The following **bonus** features are implemented:
 - [❓] User can view their profile in a profile tab. (3pts)
 - [❓] User sees embedded images in tweet if available. (3pts)
 
+The following **extra** features are implemented:
+- [✅] User can unretweet a tweet.
+- [✅] User can see the favourites count.
+- [✅] User can see the retweets count.
+- [✅] Profile pictures are rounded.
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:

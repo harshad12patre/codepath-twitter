@@ -57,4 +57,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/harshad12patre/codepath-twitter/blob/main/iphone-13-pro-max.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='https://github.com/harshad12patre/codepath-twitter/blob/main/iphone-13-pro-max-old.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />

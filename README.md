@@ -19,10 +19,12 @@ The following **bonus** features are implemented:
 - [❓] User sees embedded images in tweet if available. (3pts)
 
 The following **extra** features are implemented:
-- [✅] User can unretweet a tweet.
+
+- [✅] User can unretweet a tweet (original tweet by any user).
 - [✅] User can see the favourites count.
 - [✅] User can see the retweets count.
 - [✅] Profile pictures are rounded.
+- [✅] User can see how long ago the tweet was created.
 
 ## Video Walkthrough
 
